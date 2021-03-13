@@ -114,7 +114,7 @@ body {
     transition: bottom 0.5s;
     transition-delay: 1.25s;
     transform: translate(-50%, -50%);
-    background: url("/background-1.jpg");
+    background: url("background-1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
